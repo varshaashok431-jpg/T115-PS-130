@@ -1,0 +1,7 @@
+defect_code,description,deduction_points
+SCRATCH_MINOR,Screen scratch - minor,5
+SCRATCH_MAJOR,Screen scratch - major,15
+DENT,Body dent,8
+BATTERY_LT80,Battery health below 80%,20
+NON_ORIGINAL_PART,Non-original part fitted,25
+FUNCTIONAL_FAULT,Functional fault,40

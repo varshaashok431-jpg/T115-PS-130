@@ -1,0 +1,21 @@
+seller_id,seller_name,seller_type,city,gstin
+SLR-01,SecondLife Digital,REFURBISHER,Hyderabad,36QUDCS3998N1Z9
+SLR-02,Sahyadri Electronics,REFURBISHER,Mysuru,29ATCCS1417A1Z7
+SLR-03,Phoenix Mobiles,REFURBISHER,Chennai,33ILLCP6815C1Z8
+SLR-04,TechBack Digital,REFURBISHER,Chennai,33EUWCT9405L1Z7
+SLR-05,GreenLoop Refurb Labs,REFURBISHER,Chennai,33SRPCG1689P1Z6
+SLR-06,TechBack Electronics,REFURBISHER,Hyderabad,36PQQCT0932B1Z8
+SLR-07,SecondLife Electronics,REFURBISHER,Chennai,33EPHCS1778I1Z8
+SLR-08,GreenLoop Digital,REFURBISHER,Hyderabad,36ZUQCG7663J1Z4
+SLR-09,ReNew Refurb Labs,RETAILER,Mysuru,29UTOCR8753I1Z7
+SLR-10,Sahyadri Electronics,RETAILER,Chennai,33RVBCS4571O1Z8
+SLR-11,TechBack Electronics,RETAILER,Mysuru,29NXPCT1475D1Z3
+SLR-12,GreenLoop Mobiles,RETAILER,Chennai,33ACACG7981T1Z3
+SLR-13,Deccan Refurb Labs,RETAILER,Hyderabad,36BYRCD4520K1Z9
+SLR-14,Sahyadri Mobiles,RETAILER,Hyderabad,36HPSCS2984C1Z6
+SLR-15,Girish Patil,INDIVIDUAL,Hyderabad,
+SLR-16,Sowmya Joshi,INDIVIDUAL,Chennai,
+SLR-17,Anil Acharya,INDIVIDUAL,Mysuru,
+SLR-18,Priya Nair,INDIVIDUAL,Chennai,
+SLR-19,Rahul Murthy,INDIVIDUAL,Hubballi,
+SLR-20,Shilpa Prabhu,INDIVIDUAL,Bengaluru,
